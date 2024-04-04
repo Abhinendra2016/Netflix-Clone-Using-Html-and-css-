@@ -27,7 +27,7 @@ This is a Netflix clone project created for practice purposes. It mimics the loo
 
 ## Preview
 
-![Netflix Clone Preview](/path/to/preview/image.png)
+![Netflix Clone Preview](assets/images/Preview.png)
 
 ## How to Use
 
